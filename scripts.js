@@ -1,4 +1,4 @@
-var API_ENDPOINT = "https://szfzl2iitd.execute-api.eu-west-2.amazonaws.com/Prod"
+var API_ENDPOINT = "https://l2ggc30zqc.execute-api.eu-west-2.amazonaws.com/Prod"
 //AJAX POST REQUEST
 document.getElementById("savemessage").onclick = function(){
   var currentDate = new Date();
